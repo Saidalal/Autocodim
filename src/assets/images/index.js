@@ -1,0 +1,7 @@
+export {default as Web} from "./Web.svg"
+export {default as Android} from "./Android.svg"
+export {default as Apple} from "./Apple.svg"
+export {default as MobileWeb} from "./MobileWeb.svg"
+export {default as Tizen} from "./Tizen.svg"
+export {default as LGWebOS} from "./LGWebOS.svg"
+export {default as UploadVideo} from "./UploadVideo.svg"
